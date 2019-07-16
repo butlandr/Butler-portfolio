@@ -14,4 +14,4 @@ I hope to learn some new techniques and strategies for data presentation as well
 ## Data Visualization Critique #1 (Revised Visualization)
 <iframe title="Social Media Popularity of Candidates and Parties" aria-label="Bar Chart" id="datawrapper-chart-3SyZJ" src="//datawrapper.dwcdn.net/3SyZJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="322"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
-## Data Visualization Critique #1 (Revised Visualization)
+## Data Visualization Critique #2 (Revised Visualization)
