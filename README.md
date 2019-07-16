@@ -16,3 +16,4 @@ I hope to learn some new techniques and strategies for data presentation as well
 
 ## Data Visualization Critique #2 (Revised Visualization)
 ![alt text](https://github.com/butlandr/Butler-portfolio/blob/master/Data%20Vis%20Critigue%202.PNG?raw=true)
+For this critique I simplified the graph while still trying to maintain some fun use of the logos. In this style, McDonalds is still shown as the clear franchise leader but it can no longer be mistaken as larger than all the other franchises combined. I also researched GDP data to compare McDonalds's sales to a similarly sized country. Though it is on the borderline of the rainbow effect, I was able to pull out color references for all the logos via Google so I wasn't guessing.
