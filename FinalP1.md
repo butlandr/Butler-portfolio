@@ -1,6 +1,13 @@
 # Final Part I
 ## Outline and Initial Sketches
 
+![alt text](IMG-0691.JPG)
+![alt text](IMG-0692.JPG)
+![alt text](IMG-0693.JPG)
+![alt text](IMG-0694.JPG)
+![alt text](IMG-0695.JPG)
+
+
 ## Data
 
 I have been collected and compiling data from several different public sources within a google sheet. Below is a view only link:
