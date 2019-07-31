@@ -37,3 +37,7 @@ In this infographic I assume the reader is already familiar with the agencies an
 ## Final Part I
 
 [Click to Enter](/FinalP1.md)
+
+## Final Part II
+
+[Click to Enter](/FinalP2.md)
